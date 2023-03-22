@@ -1,2 +1,2 @@
 # card-animation
-product card animation made using JS
+product card animation made using JS.
